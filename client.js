@@ -1,4 +1,4 @@
-const socket = io('https://your-glitch-project-url.glitch.me'); // Link to the Glitch server
+const socket = io('https://butter-battle-purpose.glitch.me/'); // Link to the Glitch server
 
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
